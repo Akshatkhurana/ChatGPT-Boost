@@ -113,7 +113,7 @@ function createMonitorDiv() {
 
   // Create report issue link
   const reportLink = document.createElement("a");
-  reportLink.href = "https://github.com/mdsaban/chatgpt-boost/issues/new";
+  reportLink.href = "https://github.com/Akshatkhurana/ChatGPT-Boost/issues/new";
   reportLink.target = "_blank";
   reportLink.innerHTML = "Report an issue";
   reportLink.style.position = "absolute";

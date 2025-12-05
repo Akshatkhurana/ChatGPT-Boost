@@ -1,4 +1,3 @@
-// Monitor configuration that will be injected into the page
 window.__CHATGPT_MONITOR_RESPONSE = {};
 window.__CHATGPT_MONITOR_REQUEST = [];
 window.__CHATGPT_USER_MESSAGES = {};
